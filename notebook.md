@@ -14,4 +14,4 @@
 
 * 09/08/2017: Selected Paper 1 -  Big Data in Clinical Trails
 * 9/11/2017: Downloaded downloaded Jabref and practiced few basic things. 
-* 09/29/2017: Selected Paper 2 - Big data on autonomous cars
+* 09/19/2017: Selected Paper 2 - Big data on autonomous cars
