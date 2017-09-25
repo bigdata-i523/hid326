@@ -18,13 +18,12 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Mohan Mahendrakar
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
-   abstract: This paper showcases this and that and the other
+   - 326
+
+   title: Bigdata in Clinical Trails
+   abstract: The vast volumes of data collected across the clinical trials process offers pharma and biotech the opportunity to leverage              the information in these big data sets for improved clinical trial design, patient recruitment, site selection, monitoring              insights and overall decision making.
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    status: in progress
