@@ -21,3 +21,4 @@
 * 09/19/2017: Selected Paper 2 - Big data on autonomous cars
 * 09/23/2017: Stated writing paper1
 * 09/25/2017: uploaded sample PDF into Github repository.
+* 09/26/2017: Continued working on Paper 1
