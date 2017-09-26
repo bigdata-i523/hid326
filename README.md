@@ -21,9 +21,10 @@ paper1:
     - Mohan Mahendrakar
     hid: 326
     title: Bigdadta in Clinical Trails
-    abstract:  The vast volumes of data collected across the clinical trials process offers pharma and biotech 
-    the opportunity to leverage the information in these big data sets for improved clinical trial design, 
-    patient recruitment, site selection, monitoring insights and overall decision making.
+    abstract: >
+        The vast volumes of data collected across the clinical trials process offers pharma and biotech 
+        the opportunity to leverage the information in these big data sets for improved clinical trial design, 
+        patient recruitment, site selection, monitoring insights and overall decision making.
     url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
     type: sharelatex
     status: in progress
@@ -38,10 +39,11 @@ paper2:
     hid:
     - 326
     title:  Big data on autonomous cars
-    abstract: Autonomous cars depend on information. They’re equipped with technology to gather and communicate 
-    a vehicle’s position, speed, direction, and braking status. They also recognize traffic signals, proximity
-    to pedestrians, and hazardous objects on the road. With voluminous data being computed in near real-time, 
-    self-driving cars can respond to dangers afoot or notify the car owner of imminent mechanical issues.
+    abstract: >
+        Autonomous cars depend on information. They’re equipped with technology to gather and communicate 
+        a vehicle’s position, speed, direction, and braking status. They also recognize traffic signals, proximity
+        to pedestrians, and hazardous objects on the road. With voluminous data being computed in near real-time, 
+        self-driving cars can respond to dangers afoot or notify the car owner of imminent mechanical issues.
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
     type: Sharelatex
 ```
