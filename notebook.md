@@ -13,6 +13,8 @@
 * 09/25/2017: Resolved Github issues.
 * 09/25/2017: pulled README.MD and notebook.md from fork repository.
 * 09/22/2017: revisited writing track. 
+* 09/26/2017: Continued working on Paper 1
+* 09/27/2017: wrote assignment program, readme.md is not loading as yaml file!
 
 # Writing:
 
@@ -21,4 +23,3 @@
 * 09/19/2017: Selected Paper 2 - Big data on autonomous cars
 * 09/23/2017: Stated writing paper1
 * 09/25/2017: uploaded sample PDF into Github repository.
-* 09/26/2017: Continued working on Paper 1
