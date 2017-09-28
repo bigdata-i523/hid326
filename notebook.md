@@ -25,5 +25,5 @@
 * 09/25/2017: uploaded sample PDF into Github repository (Professor asked to remove it)
 
 # Theory:
-* 09/28/2017: Learned about YAML concepts and basid data types.
-* Mappings- hashe / dictionaries, sequences - arrays/lists and scalars - strings/numbers).
+* 09/28/2017: Learned about YAML concepts and basid data types-
+* Mappings- hashes/dictionaries, sequences - arrays/lists,  scalars - strings/numbers.
