@@ -22,4 +22,8 @@
 * 09/11/2017: Downloaded downloaded Jabref and practiced few basic things. 
 * 09/19/2017: Selected Paper 2 - Big data on autonomous cars
 * 09/23/2017: Stated writing paper1
-* 09/25/2017: uploaded sample PDF into Github repository.
+* 09/25/2017: uploaded sample PDF into Github repository (Professor asked to remove it)
+
+# Theory:
+* 09/28/2017: Learned about YAML concepts and basid data types.
+*             (mappings (hashes / dictionaries), sequences (arrays / lists), and scalars (strings / numbers).)
