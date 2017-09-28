@@ -26,4 +26,4 @@
 
 # Theory:
 * 09/28/2017: Learned about YAML concepts and basid data types.
-*             (mappings (hashes / dictionaries), sequences (arrays / lists), and scalars (strings / numbers).)
+*             mappings (hashes / dictionaries), sequences (arrays / lists), and scalars (strings / numbers).
