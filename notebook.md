@@ -6,6 +6,7 @@
 * 09/18/2017: Attended online sessions (paper 1, LaTex, ShareLaTeX, Jabref, experiments)
 * 09/23/2017: Attended Online meeting with TAs
 * 09/25/2017: Attended online session. 
+* 09/30/2017: Attended online session with Maio and leared about creating folders in github
 
 # Practics:
 
