@@ -1,3 +1,9 @@
+# Location
+ 
+* Address: Apex, NC
+* Latitude: 35.732652
+* Longitude: -86.501161
+
 # Logistics:
 
 * 08/23/2017: Created GitHub, Chameleon and FuturesSystems Portal accounts
