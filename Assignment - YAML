@@ -32,9 +32,7 @@ for line in lines:
 # check for the tab in the line.
     if "\t" in line:
         print("ERROR: tab found in line", counter, line)
-
-# check for the line starts with space and the line is not empty
-    if line.startswith(" ") and line not in ['\n']:
+    if line.startswith(" ") and line not in ['\n'] and not line.startswith("   ") and not line.startswith("  ") and not line.startswith("    "):
         print("ERROR: space found in first column of the line", counter, line)
 
 print(content)
