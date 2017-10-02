@@ -14,7 +14,7 @@ for line in lines:
 
     counter = counter + 1
 
-# check the line in yaml format or not
+    # check the line in yaml format or not
     if in_yaml:
         content.append(yaml.load(line))
 
@@ -29,12 +29,16 @@ for line in lines:
     if in_yaml and not line.startswith("```"):
         in_yaml = False
 
-# check for the tab in the line.
+    # check for the tab in the line.
     if "\t" in line:
         print("ERROR: tab found in line", counter, line)
         
-# check for space in first column of the line! ignore if the line is empty and has 2 to 4 spaces in the begining of the line
-    if line.startswith(" ") and line not in ['\n'] and not line.startswith("   ") and not line.startswith("  ") and not line.startswith("    "):
+    # check for space in first column of the line! ignore if the line is empty 
+    # and has 2 to 4 spaces in the begining of the line
+    if line.startswith(" ") and line not in ['\n'] \
+        and not line.startswith("   ") \
+        and not line.startswith("  ") \
+        and not line.startswith("    "):
         print("ERROR: space found in first column of the line", counter, line)
 
 print(content)
