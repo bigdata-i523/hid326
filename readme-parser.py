@@ -1,4 +1,6 @@
 import yaml
+import sys
+from pprint import pprint
 
 # variables/counters declaration
 in_yaml = False
@@ -9,11 +11,39 @@ counter = 0
 with open('README.md', 'r') as f:
     lines = f.readlines()
 
+
+all_lines = []
+for line in lines:
+    all_lines.append(line.replace("\n",""))
+
+lines = all_lines
+
+#print(lines)
+
+
+content = []
+
 # Loop through all the lines
 for line in lines:
-
     counter = counter + 1
 
+    if not in_yaml and line.startswith('```'):
+        in_yaml = True
+    elif in_yaml and line.startswith("```"):
+        in_yaml = False
+    elif in_yaml:
+        content.append(line)
+        
+    
+    
+s = '\n'.join(content)
+
+d = yaml.load(s)
+
+pprint (d)
+
+
+'''
     # check the line in yaml format or not
     if in_yaml:
         content.append(yaml.load(line))
@@ -40,5 +70,4 @@ for line in lines:
         and not line.startswith("  ") \
         and not line.startswith("    "):
         print("ERROR: space found in first column of the line", counter, line)
-
-print(content)
+'''
