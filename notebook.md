@@ -1,9 +1,3 @@
-# Location
- 
-* Address: Apex, NC
-* Latitude: 35.732652
-* Longitude: -86.501161
-
 # Logistics:
 
 * 08/23/2017: Created GitHub, Chameleon and FuturesSystems Portal accounts
@@ -13,6 +7,7 @@
 * 09/23/2017: Attended Online meeting with TAs
 * 09/25/2017: Attended online session. 
 * 09/30/2017: Attended online session with Maio and leared about creating folders in github
+* 10/02/2017: Attended online session, discussed about python programs, report.bib etc.,
 
 # Practics:
 
@@ -32,5 +27,12 @@
 * 09/25/2017: uploaded sample PDF into Github repository (Professor asked to remove it)
 
 # Theory:
+
 * 09/28/2017: Learned about YAML concepts and basid data types-
 * -- Mappings- hashes/dictionaries, sequences - arrays/lists,  scalars - strings/numbers.
+
+# Location
+ 
+* Address: Apex, NC
+* Latitude: 35.732652
+* Longitude: -86.501161
