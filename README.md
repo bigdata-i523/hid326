@@ -29,7 +29,7 @@ paper1:
         overall decision making. 
     url: https://github.com/bigdata-i523/hid326/paper1/paper1.pdf
     type: sharelatex
-    status: in progress
+    status: 98%
     chapter: Health
 ```
    
@@ -49,6 +49,7 @@ paper2:
         self-driving cars can respond to dangers afoot or notify the car owner of imminent mechanical issues.
     url: https://github.com/bigdata-i523/hid326/paper2/paper2.pdf   
     type: Sharelatex
+    status: yet to be started
 ```
 
 # Project 
