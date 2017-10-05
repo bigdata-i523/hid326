@@ -1,13 +1,16 @@
-# Logistics:
+# Meetings
 
-* 08/23/2017: Created GitHub, Chameleon and FuturesSystems Portal accounts
-* 08/30/2017: Read Organization and watched Piazza Introduction video
 * 09/11/2017: Attended online session (paper 1, LaTex, ShareLaTeX, Jabref)
 * 09/18/2017: Attended online sessions (paper 1, LaTex, ShareLaTeX, Jabref, experiments)
 * 09/23/2017: Attended Online meeting with TAs
 * 09/25/2017: Attended online session. 
 * 09/30/2017: Attended online session with Maio and leared about creating folders in github
 * 10/02/2017: Attended online session, discussed about python programs, report.bib etc.,
+* 10/04/2017: Attended online session with TA Juliet & professor Gregon, discussed about the paper and jabref
+
+# Logistics:
+
+* 08/23/2017: Created GitHub, Chameleon and FuturesSystems Portal accounts
 
 # Practics:
 
@@ -28,6 +31,7 @@
 
 # Theory:
 
+* 08/30/2017: Read Organization and watched Piazza Introduction video
 * 09/28/2017: Learned about YAML concepts and basid data types-
 * -- Mappings- hashes/dictionaries, sequences - arrays/lists,  scalars - strings/numbers.
 
