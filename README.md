@@ -19,7 +19,8 @@ owner:
 paper1:
     author: 
     - Mohan Mahendrakar
-    hid: 326
+    hid:
+    - 326
     title: Bigdadta in Clinical Trails
     abstract: >
         The vast volumes of data collected across the clinical trials
