@@ -24,10 +24,12 @@
 # Writing:
 
 * 09/08/2017: Selected Paper 1 -  Big Data in Clinical Trails
-* 09/11/2017: Downloaded downloaded Jabref and practiced few basic things. 
+* 09/11/2017: Downloaded Jabref and practiced few basic things. 
 * 09/19/2017: Selected Paper 2 - Big data on autonomous cars
 * 09/23/2017: Stated writing paper1
 * 09/25/2017: uploaded sample PDF into Github repository (Professor asked to remove it)
+* 10/03/2017: Sent the Paper1 to Professor for review and got the comments
+* 10/05/2017: Implimenting the review comments on Paper1
 
 # Theory:
 
