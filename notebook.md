@@ -11,6 +11,7 @@
 # Logistics:
 
 * 08/23/2017: Created GitHub, Chameleon and FuturesSystems Portal accounts
+* 08/28/2017: Purchase NodeMCU esp8266.
 
 # Practics:
 
