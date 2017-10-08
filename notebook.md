@@ -1,12 +1,13 @@
 # Meetings
 
-* 09/11/2017: Attended online session (paper 1, LaTex, ShareLaTeX, Jabref)
-* 09/18/2017: Attended online sessions (paper 1, LaTex, ShareLaTeX, Jabref, experiments)
-* 09/23/2017: Attended Online meeting with TAs
+* 09/11/2017: Attended online session (paper 1, LaTex, ShareLaTeX, Jabref).
+* 09/18/2017: Attended online sessions (paper 1, LaTex, ShareLaTeX, Jabref, experiments).
+* 09/23/2017: Attended Online meeting with TAs.
 * 09/25/2017: Attended online session. 
 * 09/30/2017: Attended online session with Maio and leared about creating folders in github
 * 10/02/2017: Attended online session, discussed about python programs, report.bib etc.,
 * 10/04/2017: Attended online session with TA Juliet & professor Gregon, discussed about the paper and jabref
+* 10/06/2017: Attended online session with Saber, clarifed few doubts. 
 
 # Logistics:
 
@@ -31,6 +32,7 @@
 * 09/25/2017: uploaded sample PDF into Github repository (Professor asked to remove it)
 * 10/03/2017: Sent the Paper1 to Professor for review and got the comments
 * 10/05/2017: Implimenting the review comments on Paper1
+* 10/06/2017: Finished writing Paper1, fingers crossed :)
 
 # Theory:
 
