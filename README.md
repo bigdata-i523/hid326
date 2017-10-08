@@ -30,7 +30,7 @@ paper1:
         overall decision making. 
     url: https://github.com/bigdata-i523/hid326/paper1/paper1.pdf
     type: latex
-    status: 98%
+    status: 100%
     chapter: Health
 ```
    
