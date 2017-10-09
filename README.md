@@ -2,7 +2,7 @@
 # Comments
 
 * Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
+
 
 # Owner
 
@@ -29,7 +29,7 @@ paper1:
         patient recruitment, site selection, monitoring insights and
         overall decision making. 
     url: https://github.com/bigdata-i523/hid326/paper1/paper1.pdf
-    type: latex
+    type: Sharelatex
     status: 100%
     chapter: Health
 ```
