@@ -50,7 +50,7 @@ paper2:
         self-driving cars can respond to dangers afoot or notify the car owner of imminent mechanical issues.
     url: https://github.com/bigdata-i523/hid326/paper2/paper2.pdf   
     type: Sharelatex
-    status: yet to be started
+    status: in-progress
 ```
 
 # Project 
