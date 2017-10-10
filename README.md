@@ -29,7 +29,7 @@ paper1:
         patient recruitment, site selection, monitoring insights and
         overall decision making. 
     url: https://github.com/bigdata-i523/hid326/paper1/paper1.pdf
-    type: Sharelatex
+    type: latex
     status: 100%
     chapter: Health
 ```
