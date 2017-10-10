@@ -8,6 +8,7 @@
 * 10/02/2017: Attended online session, discussed about python programs, report.bib etc.,
 * 10/04/2017: Attended online session with TA Juliet & professor Gregon, discussed about the paper and jabref
 * 10/06/2017: Attended online session with Saber, clarifed few doubts. 
+* 10/09/2017: Attended online meeting with julliet.
 
 # Logistics:
 
@@ -33,7 +34,7 @@
 * 10/03/2017: Sent the Paper1 to Professor for review and got the comments
 * 10/05/2017: Implimenting the review comments on Paper1
 * 10/06/2017: Finished writing Paper1, fingers crossed :)
-
+* 10/10/2017: Started rework on Paper1!
 # Theory:
 
 * 08/30/2017: Read Organization and watched Piazza Introduction video
