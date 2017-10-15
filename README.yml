@@ -1,0 +1,28 @@
+---
+owner:
+    hid: 326
+    name: Mahendrakar, Mohan
+    url: https://github.com/bigdata-i523/hid326
+paper1:
+    abstract: "The vast volumes of data collected across the clinical trials process\
+        \ offers pharma and biotech the opportunity to leverage the information in\
+        \ these big data sets for improved clinical trial design, patient recruitment,\
+        \ site selection, monitoring insights and overall decision making. \n"
+    author:
+        - Mohan Mahendrakar
+    chapter: Health
+    hid:
+        - 326
+    status: 100%
+    title: Bigdadta in Clinical Trails
+    type: latex
+    url: https://github.com/bigdata-i523/hid326/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Mohan Mahendrakar
+    hid:
+        - 326
+    title: Benchmarking a BigData Docker deployment
+    type: latex
+    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
