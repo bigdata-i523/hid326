@@ -9,6 +9,8 @@
 * 10/04/2017: Attended online session with TA Juliet & professor Gregon, discussed about the paper and jabref
 * 10/06/2017: Attended online session with Saber, clarifed few doubts. 
 * 10/09/2017: Attended online meeting with julliet.
+* 10/16/2017: Attended online session with Professor.
+* 10/23/2017: Attended online session with Professor.
 
 # Logistics:
 
