@@ -17,8 +17,9 @@ paper1:
     status: 100%
     title: Bigdadta in Clinical Trails
     type: latex
-    url: https://github.com/bigdata-i523/hid326/paper1/paper1.pdf
+    url: https://github.com/bigdata-i523/hid326/paper1
 paper2:
+    status: 0%
     abstract: This paper showcases tis and that and the other
     author:
         - Mohan Mahendrakar
@@ -26,4 +27,4 @@ paper2:
         - 326
     title: Benchmarking a BigData Docker deployment
     type: latex
-    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+    url: https://github.com/bigdata-i523/hid326/paper1
