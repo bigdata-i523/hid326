@@ -37,6 +37,7 @@
 * 10/05/2017: Implimenting the review comments on Paper1
 * 10/06/2017: Finished writing Paper1, fingers crossed :)
 * 10/10/2017: Started rework on Paper1!
+* 10/24/2017: Working on Paper 2
 # Theory:
 
 * 08/30/2017: Read Organization and watched Piazza Introduction video
