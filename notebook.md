@@ -11,6 +11,7 @@
 * 10/09/2017: Attended online meeting with julliet.
 * 10/16/2017: Attended online session with Professor.
 * 10/23/2017: Attended online session with Professor.
+* 10/30/2017: Attended online session with Professor.
 
 # Logistics:
 
