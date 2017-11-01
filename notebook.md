@@ -18,7 +18,7 @@
 * 08/23/2017: Created GitHub, Chameleon and FuturesSystems Portal accounts
 * 08/28/2017: Purchased NodeMCU esp8266.
 
-# Practics:
+# Practices:
 
 * 08/14/2017: Installed Pycharm and wrote initial programs
 * 09/25/2017: Resolved Github issues.
@@ -39,6 +39,7 @@
 * 10/06/2017: Finished writing Paper1, fingers crossed :)
 * 10/10/2017: Started rework on Paper1!
 * 10/24/2017: Working on Paper 2
+* 10/31/2017: Most of the paper 1 review coments fixed. 
 # Theory:
 
 * 08/30/2017: Read Organization and watched Piazza Introduction video
