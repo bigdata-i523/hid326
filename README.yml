@@ -19,12 +19,12 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid326/paper1
 paper2:
-    status: 5%
-    abstract: This paper showcases tis and that and the other
+    abstract: >
+    
     author:
         - Mohan Mahendrakar
     hid:
         - 326
-    title: Benchmarking a BigData Docker deployment
+    title: Big data on autonomous cars
     type: latex
     url: https://github.com/bigdata-i523/hid326/paper1
