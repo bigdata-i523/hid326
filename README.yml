@@ -32,3 +32,13 @@ paper2:
     title: Big data on autonomous cars
     type: sharelatex
     url: https://github.com/bigdata-i523/hid326/paper2
+    project:
+    abstract: null
+    author:
+        - Mohan Mahendrakar
+    hid:
+        - 218
+    title: null
+    type: project
+    url: null
+---
