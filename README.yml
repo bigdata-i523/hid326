@@ -5,10 +5,11 @@ owner:
     url: https://github.com/bigdata-i523/hid326
 paper1:
     abstract: >
-        The vast volumes of data collected across the clinical trials process
-        offers pharma and biotech the opportunity to leverage the information in
-        these big data sets for improved clinical trial design, patient recruitment,
-        site selection, monitoring insights and overall decision making.
+        The vast volumes of data collected across the clinical trials
+        process offers pharma and biotech the opportunity to leverage
+        the information in these big data sets for improved clinical
+        trial design, patient recruitment, site selection, monitoring
+        insights and overall decision making.
     author:
         - Mohan Mahendrakar
     chapter: Health
@@ -16,23 +17,23 @@ paper1:
         - 326
     status: 100% Nov 02 2017
     title: Bigdadta in Clinical Trails
-    type: latex
     url: https://github.com/bigdata-i523/hid326/paper1
 paper2:
     abstract: >
-        Autonomous cars depend on information. They’re equipped with technology to gather and 
-        communicate a vehicle’s position, speed, direction, and braking status. They also 
-        recognize traffic signals, proximity to pedestrians, and hazardous objects on the road. 
-        With voluminous data being computed in near real-time, self-driving cars can respond to 
-        dangers afoot or notify the car owner of imminent mechanical issues.
+        Autonomous cars depend on information. They’re equipped with
+        technology to gather and communicate a vehicle’s position,
+        speed, direction, and braking status. They also recognize
+        traffic signals, proximity to pedestrians, and hazardous
+        objects on the road.  With voluminous data being computed in
+        near real-time, self-driving cars can respond to dangers afoot
+        or notify the car owner of imminent mechanical issues.
     author:
         - Mohan Mahendrakar
     hid:
         - 326
     title: Big data on autonomous cars
-    type: sharelatex
     url: https://github.com/bigdata-i523/hid326/paper2
-    project:
+project:
     abstract: null
     author:
         - Mohan Mahendrakar
@@ -41,4 +42,3 @@ paper2:
     title: null
     type: project
     url: null
----
