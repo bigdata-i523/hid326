@@ -41,6 +41,7 @@
 * 10/10/2017: Started rework on Paper1!
 * 10/24/2017: Working on Paper 2
 * 10/31/2017: Most of the paper 1 review coments fixed. 
+* 11/02/2017: Review comments implemented on Paper1
 # Theory:
 
 * 08/30/2017: Read Organization and watched Piazza Introduction video
