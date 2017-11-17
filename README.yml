@@ -30,6 +30,7 @@ paper2:
         or notify the car owner of imminent mechanical issues.
     author:
         - Mohan Mahendrakar
+    chapter: Environment
     hid:
         - 326
     title: Big data on autonomous cars
