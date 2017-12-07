@@ -19,6 +19,7 @@ paper1:
     title: Bigdadta in Clinical Trails
     url: https://github.com/bigdata-i523/hid326/paper1
 paper2:
+    exclude: True
     review: Nov 6 2017
     abstract: >
         Autonomous cars depend on information. They’re equipped with
@@ -35,6 +36,7 @@ paper2:
         - 326
     title: Big data on autonomous cars
     url: https://github.com/bigdata-i523/hid326/paper2
+    status: 0%
 project:
     abstract: null
     author:
